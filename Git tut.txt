@@ -4,4 +4,5 @@ git status ==> to check status of files in repository
 git log ==> also used to check statusS. Additionallly gives a result of who did what.
 gitk ==> visual representation of the master
 git commit -m <message>  ===> commit
-
+Adding some changes to test
+Adding some moree changes
